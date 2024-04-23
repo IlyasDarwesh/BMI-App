@@ -77,8 +77,12 @@ A convenient BMI (Body Mass Index) Calculator suitable for all devices—mobile 
 ### menu item Healthy Tips: 
 <img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/03a91a16-9e34-40d7-aebe-d166aba1df22.jpeg" width="300" height="450">
 
+
+### menu item Conversion method: 
+<img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/352aa55c-42cf-4df0-a47d-3a7acbb8c215.jpeg" width="300" height="450">
+
 ### Menu Item favorite on Collapse Action on the toolbar: 
 
-It is linked with Github when click on  favourite item automatically it will open my GitHub profile
+It is linked with Github when click on favorite item automatically it will open my GitHub profile
 
 
