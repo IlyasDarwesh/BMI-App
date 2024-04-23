@@ -1,0 +1,31 @@
+﻿BMI Formulas
+Divide weight by height squared to find BMI. Note that you need to use kg and meters the standard units for the BMI formula are kg and meters. If you need other units of measure the calculator will convert among units for you.
+In metric units, using kg and meters:
+ BMI= weight in kg height2 in m BMI= weight in kg height2 in m
+BMI = weight ÷ height2
+· In metric units: BMI = weight (kg) ÷ height2 (meters)
+· In US units: BMI = weight (lb) ÷ height2 (inches) * 703
+Click below Link for additional BMI formulas below for accurate calculations in metric or imperial units.
+https://www.calculatorsoup.com/calculators/health/bmi-calculator.php
+
+How to Calculate BMI
+Using metric units, where weight is in kilograms and height is in meters, divide weight by meters squared.
+In US units, where weight is in pounds and height is in inches, divide weight by inches squared. Then multiply this figure by 703.
+Example 1: Calculate BMI in metric units
+Matilda weighs 64 kg and is 1.9 meters tall. What is her BMI?
+Divide 64 by 1.92
+· BMI = w ÷ h2
+· BMI = 64 ÷ 1.92
+· BMI = 64 ÷ 3.61
+· BMI = 17.7
+Example 2: Calculating BMI in US units
+Stanley weighs 184 lb and is 5 feet, 10 inches tall. What is his BMI?
+Find total inches by multiplying 5 * 12 and add 10. Divide weight by total inches squared and multiply the result by 703.
+· 5 feet, 10 inches = 70 inches
+· BMI = (w ÷ h2) * 703
+· BMI = (184 ÷ 702) * 703
+· BMI = (184 ÷ 4900) * 703
+· BMI = 0.3755 * 703
+· BMI = 26.4
+Although BMI is calculated the same way worldwide for all ages, the way an individual's BMI is interpreted depends on location and the person's age.
+

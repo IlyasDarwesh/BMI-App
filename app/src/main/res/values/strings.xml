@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="weight">Enter You weight</string>
+    <string name="heightinfeet">Enter You Height</string>
+    <string name="heightininches">Enter You Height</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="range_format">%1$s - %2$s</string>
+
+
+
+</resources>
