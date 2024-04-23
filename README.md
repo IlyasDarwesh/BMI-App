@@ -59,35 +59,26 @@ A convenient BMI (Body Mass Index) Calculator suitable for all devices—mobile 
 <img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/8428c58b-c377-4f49-a6f3-5ab5ed258fe0.jpeg" width="300" height="450">
 
 
-
-
-
 ### Data Analysis: 
 
 <img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/3267ef9c-1ccb-43b0-9e47-5dfb6469092a.jpeg" width="300" height="450">
 
-### Add data of Abnormal person: 
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/61087ca0-1db9-4002-9499-3634c71a3228.jpeg" width="300" height="450">
+### Toolbar Menu item list: 
+<img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/4043fd96-966b-4e0e-bc2f-6ab1a3e9ce53.jpeg" width="300" height="450">
 
-### Search image for abnormal person: 
-Here I am taking an example picture which already stored in my database
-
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/e8499242-3f4a-4e47-9c2d-2cc304a41bd7.jpeg" width="300" height="450">
-
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/163b3924-b5b6-4913-a47e-e246cdd20ed8.jpeg" width="300" height="450">
-
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/a77795b9-e8f4-460b-85bd-c5bc1e072473.jpeg" width="300" height="450">
+### Menu item About: 
 
 
-### Chatting section: 
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/73e90cd4-9d73-427d-809d-e1a4dddd1523.jpeg" width="300" height="450">
+<img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/6e331b12-6780-46fc-82c4-409876b4f389.jpeg" width="300" height="450">
 
-### Missing Report Notification: 
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/8d6b647a-b195-46ae-b5a6-24190926cfd7.jpeg" width="300" height="450">
 
-### Missing Report Recovered Notification: 
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/39208c10-f11c-4fb6-83bf-55bdbf522d22.jpeg" width="300" height="450">
 
-### Logout: 
-<img src="https://github.com/IlyasDarwesh/Android_App_Abnormal_Person_Finder/assets/100092188/283f267f-bb5b-4451-a4f7-8e5c3c8c7f4a.jpeg" width="300" height="450">
+
+### menu item Healthy Tips: 
+<img src="https://github.com/IlyasDarwesh/BMI-App/assets/100092188/03a91a16-9e34-40d7-aebe-d166aba1df22.jpeg" width="300" height="450">
+
+### Menu Item favorite on Collapse Action on the toolbar: 
+
+It is linked with Github when click on  favourite item automatically it will open my GitHub profile
+
 
